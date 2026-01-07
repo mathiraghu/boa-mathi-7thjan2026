@@ -1,2 +1,2 @@
 vm-size = "t3.micro"
-vm-name = "mathi-vm2"
+vm-name = "mathigit-vm1"
