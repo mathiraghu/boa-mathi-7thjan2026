@@ -15,3 +15,8 @@ variable "vm-name" {
     #default= "mathi-vm1"
   
 }
+variable "novm" {
+  type = number
+  description = "this is the number of vm created"
+  
+}
